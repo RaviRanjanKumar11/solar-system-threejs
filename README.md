@@ -1,23 +1,16 @@
-<<<<<<< HEAD
-# solar-system-threejs
-=======
-# Solar System Simulation 
+#  Solar System Simulation using Three.js
 
-This project simulates the movement of planets around the sun using Three.js.
-
-## How to Run
-1. Clone the repo: `git clone https://github.com/RaviRanjanKumar11/solar-system-threejs.git`
-2. Open `index.html` in a browser.
-
-## Features
-- Realistic planetary orbits
-- Textured planets & lighting
-- Camera controls with OrbitControls
-
-##  Challenges & Solutions
-- Implementing orbital motion using sine & cosine
-- Adjusting camera for better viewing angles
+This project is a 3D interactive solar system simulation built with [Three.js](https://threejs.org/).
 
 ##  Live Demo
-[Click here to view the live project](https://github.com/RaviRanjanKumar11/solar-system-threejs.git)
->>>>>>> 6967c0f (Added README)
+[Click here to view the live demo](https://brilliant-gingersnap-4a67fe.netlify.app/)
+
+##  Project Structure
+- `index.html` → Main HTML file
+- `style.css` → Styling for the project
+- `script.js` → JavaScript code handling Three.js logic
+
+##  How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/RaviRanjanKumar11/solar-system-threejs.git
