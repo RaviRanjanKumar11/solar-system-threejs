@@ -1,4 +1,4 @@
-// Advanced Three.js Solar System with Enhanced Features
+// Three.js Solar System
 
 // 1. Setup Scene, Camera, Renderer
 const scene = new THREE.Scene();
